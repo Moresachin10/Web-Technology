@@ -1,0 +1,119 @@
+.body
+{
+    margin:0px;
+    padding:0px;
+    background-color: white;   
+}
+
+.logo
+{
+    font-family: 'Lobster', cursive;
+}
+
+.logo .anchor:hover
+{
+    color: black;
+}
+
+.nav
+{
+    height:80px;
+    color:white;
+    position:fixed;
+    width: 100%;
+    background-color: #2b2e4a;
+    overflow: hidden;
+}
+
+.nav_menu
+{
+    position:relative;
+    left:1000px;
+    padding-top: 30px;
+    margin: 0px;
+    bottom:90px;
+}
+
+.anchor
+{
+    text-decoration: none;
+    color: white;
+}
+
+.anchor:hover
+{
+    color:#32e0c4;
+}
+
+.background
+{
+    overflow: hidden;
+    bottom: 0px;
+    top: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.contact
+{
+    position: relative;
+    text-align: center;
+    background-color: black;
+    color: white;
+    bottom: 10px;
+    padding-bottom: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.footer
+{
+    background-color:#035aa6;
+    padding: 30px;
+    position: relative;
+    text-align: center;
+    margin: 0px;
+    bottom: 20px;
+    border-bottom: 5px,solid,black;
+
+}
+
+.anchor_foot
+{
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.anchor_foot:hover
+{
+    color: #E5F9F5;
+}
+
+span
+{   
+    background-color: blue;
+}
+
+.copyrit
+{
+    font-size: 12px;
+    color: #EAF6F6;
+}
+
+.facebook
+{
+    color: blue;
+}
+
+.gmail
+{
+    color:Red;
+}
+
+h3
+{
+    padding: 0px;
+    margin-top: 0px;
+}

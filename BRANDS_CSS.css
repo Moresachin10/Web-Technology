@@ -1,0 +1,179 @@
+.body
+{
+    margin:0px;
+    padding:0px;
+    background-color:black;
+    
+}
+
+.logo
+{
+    font-family: 'Lobster', cursive;
+}
+
+.logo .anchor:hover
+{
+    color: black;
+}
+
+.nav
+{
+    height:80px;
+    color:white;
+    position:fixed;
+    width: 100%;
+    background-color: #2b2e4a;
+    overflow: hidden;
+    margin-bottom: 40px;
+    z-index: +1;
+}
+
+.nav_menu
+{
+    position:relative;
+    left:1000px;
+    padding-top: 30px;
+    margin: 0px;
+    bottom:90px;
+}
+
+.anchor
+{
+    text-decoration: none;
+    color: white;
+}
+
+.anchor:hover
+{
+    color:#32e0c4;
+}
+
+.brands_images
+{
+    position: relative;
+    display: inline-block;
+    top: 100px;
+    
+}
+
+.wrogn
+{
+    width: 400px;
+    margin-left: 35px;
+}
+
+.wrogn:hover
+{
+    width:415px ;
+    margin-left:35px ;
+}
+
+.adidas
+{
+    width: 400px;
+    height: 260px;
+    margin-left: 35px;
+    padding: 0px;
+}
+
+.adidas:hover
+{
+    width: 415px;
+    height: 270px;
+    margin-left: 35px;
+    padding: 0px; 
+}
+
+.puma
+{
+    width: 400px;
+    height: 260px;
+    margin-left: 35px;
+    padding: 0px;    
+}
+
+.puma:hover
+{
+    width: 415px;
+    height: 270px;
+    margin-left: 35px;
+    padding: 0px;     
+}
+
+.line
+{
+    position: relative;
+    top: 120px;
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.instagram
+{
+    position: relative;
+    bottom: 300px;
+    left: 200px;
+}
+
+
+
+.facebook
+{
+    position: relative;
+    bottom: 200px;
+    left:130px;
+}
+
+.whatsapp
+{
+    position: relative;
+    left: 65px;
+    bottom: 100px;
+}
+
+.footer
+{
+    background-color:#035aa6;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+    margin-top:200px ;
+}
+
+.anchor_foot
+{
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.anchor_foot:hover
+{
+    color: #E5F9F5;
+}
+
+.copyrit
+{
+    font-size: 12px;
+    color: #EAF6F6;
+}
+
+.facebook
+{
+    color: blue;
+}
+
+.face
+{
+    color: blue;
+}
+
+.gmail
+{
+    color:Red;
+}
+
+
+
